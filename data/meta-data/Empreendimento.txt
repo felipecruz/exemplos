@@ -1,0 +1,17 @@
+IdEmpreendimento	bigint	Identificador do empreendimento-PK.	
+DescEmpreendimento	varchar	Descrição (nome) do empreendimento. 	
+IdCidadeSede	bigint	Identificador da cidade sede associada ao empreendimento.	
+IdTema	bigint	Identificador do tema associado ao empreendimento.	
+IdAgrupador	bigint	Identificador do agrupador associado ao empreendimento.	
+FlgFonteMatriz	bit	Indica se a a fonte do recurso provem da matriz de responsabilidade ou não.	
+FlgDireto	bit	Indica se  o tipo de aplicação efetuada para o Empreendimento é Direta ou Indireta.	
+DescObservacao	varchar	Observações sobre o Empreendimento.	
+IdAndamento	bigint	Identificador do andamento associado ao empreendimento.	
+FlgAtivo	bit	Indicador da situação do  Empreendimento (Ativo ou Excluído).	
+IdFaseGrupo	bigint	Código do estado atual do empreendimento.	
+TxtExplicativoInvestimento	varchar	Texto explicativo sobre os Investimentos do Empreendimento.	
+TxtExplicativoRecursos	varchar	Texto explicativo sobre os  Recursos Previstos  do Empreendimento.	
+TxtExplicativoEtapas	varchar	Texto explicativo sobre as Etapas do Empreendimento.	
+IdProjeto	bigint	Identificador do projeto associado ao empreendimento.	
+IdInstituicao	bigint	Identificador da instituição associada ao empreendimento.	
+ValTotalPrevisto	numeric	Soma dos valores previstos	

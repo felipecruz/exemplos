@@ -1,0 +1,16 @@
+IdLicitacao	bigint	Identificador de licitação-PK.	
+NumLicitacao	varchar	Número da licitação.	
+IdAno	bigint	Identificador de ano associado à licitação.	
+IdFaseGrupo	bigint	Identificador de Fase Grupo associado à licitação.	
+DatPublicacao	datetime	Data da publicação da licitação no Diário Oficial.	
+FlgRecursoPublicoFederal	bit	Indica se a licitação tem recurso público federal ou não.	
+IdModalidade	bigint	Identificador de modalidade associado à licitação.	
+IdTipoLicitacao	bigint	Identificador de Tipo Licitação associado à licitação.	
+ValEstimado	decimal	Valor estimado da licitação.	
+NumEmpenho	varchar	Número do empenho da licitação.	
+ValEmpenho	decimal	Valor do empenho da licitação.	
+DescObjeto	varchar	Descrição do objeto da licitação.	
+IdEmpreendimento	bigint	Identificador de empreendimento associado à licitação.	
+FlgAtivo	bit	Indica se a situação da licitação é ativo ou inativo.	
+IdFaseLicitacao	bigint	Identificador de Fase Licitação associado à licitação.	
+FlgExclusaoDependencia	bit	Indicativo de exclusão por dependencia.	

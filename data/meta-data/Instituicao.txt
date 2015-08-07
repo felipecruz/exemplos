@@ -1,0 +1,4 @@
+IdInstituicao	bigint	Identificador da instituição-PK.	
+IdTipoInstituicao	bigint	Identificador do tipo de instituição associada à instituição.	
+NomInstituicao	varchar	Nome da instituição.	
+NumCnpj	varchar	Número do CNPJ.	

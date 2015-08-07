@@ -1,0 +1,10 @@
+IdExecucaoFinanceira	bigint	Identificador de Execução Financeira-PK.
+IdEmpreendimento	bigint	Identificador do empreendimento associado a execução financeira.
+IdInstituicaoContratado	bigint	Identificador da instituição contratada ou que recebe o crédito.
+IdPessoaFisicaContratado	bigint	Identificador da pessoa física contratada.
+IdLicitacao	bigint	Identificador da licitação associada à execução financeira.
+ValContrato	decimal	Valor de contrato do recurso captado da execução financeira.
+ValTotal	decimal	Valor total do recurso captado da execução financeira.
+DatAssinatura	datetime	Data de assinatura da execução financeira.
+DatInicioVigencia	datetime	Data da concessão do crédito.
+DatFinalVigencia	datetime	Data para quitação do crédito.
