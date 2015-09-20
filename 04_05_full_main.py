@@ -23,7 +23,7 @@ def download(response, output):
         total_downloaded += len(data)
         if not data:
             break
-        out_file.write(data)
+        output.write(data)
         print('Downloaded {bytes}'.format(bytes=total_downloaded))
 
 
