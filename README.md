@@ -1,6 +1,6 @@
 # Exemplos do livro "Python - Escreva seus primeiros programas"
 
-Lista de email `livro-python3@googlegroups.com`
+Fórum de discussão - `http://forum.casadocodigo.com.br/`
 
 # Contato
 
